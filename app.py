@@ -1,14 +1,26 @@
 import numpy as np
+import sqlalchemy
+from sqlalchemy.ext.automap import automap_base
+from sqlalchemy.orm import Session
+from sqlalchemy import create_engine, func
+import datetime as dt
+from flask import Flask, jsonify
 
+#  #nick said we only need this if we use sqlalchemy
+#engine = '' #UPDATE TO THE CODE BELOW
+# engine = create_engine(sqlite://Resources/FILENAME.sqlite)
 
 
 # reflect an existing database into a new model
-Base = automap_base()
-# reflect the tables
-Base.prepare(autoload_with=engine)
+#Base = automap_base() #nick said we only need this if we use sqlalchemy
+# reflect the tables #nick said we only need this if we use sqlalchemy
+#Base.prepare(autoload_with=engine) #nick said we only need this if we use sqlalchemy
 
 # Save reference to the table
-Passenger = Base.classes.test
+#Passenger = Base.classes.test
+# Other Examples from SQLalchemy challenge
+#station = Base.classes.station
+#measurement = Base.classes.measurement
 
 #################################################
 # Flask Setup
