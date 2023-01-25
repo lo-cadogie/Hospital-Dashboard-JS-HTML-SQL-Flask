@@ -1,32 +1,17 @@
-import numpy as np
-import sqlalchemy
-from sqlalchemy.ext.automap import automap_base
-from sqlalchemy.orm import Session
-from sqlalchemy import create_engine, func
-import datetime as dt
-from flask import Flask, jsonify
 
-#  #nick said we only need this if we use sqlalchemy
-#engine = '' #UPDATE TO THE CODE BELOW
-# engine = create_engine(sqlite://Resources/FILENAME.sqlite)
+#################################################
+# Imports
+#################################################
+ 
+from flask import Flask, jsonify, render_template
+import sqlite3
 
-
-# reflect an existing database into a new model
-#Base = automap_base() #nick said we only need this if we use sqlalchemy
-# reflect the tables #nick said we only need this if we use sqlalchemy
-#Base.prepare(autoload_with=engine) #nick said we only need this if we use sqlalchemy
-
-# Save reference to the table
-#Passenger = Base.classes.test
-# Other Examples from SQLalchemy challenge
-#station = Base.classes.station
-#measurement = Base.classes.measurement
 
 #################################################
 # Flask Setup
 #################################################
 app = Flask(__name__)
-
+db_locale = 'Hospital_Boarding.db'
 
 #################################################
 # Flask Routes
@@ -40,6 +25,32 @@ def welcome():
         f"/api/v1.0/names<br/>"
         f"/api/v1.0/passengers"
     )
+
+@app.route("/home")
+def home_page():
+    hospital_table = query_hospital_table()
+    admit_details_table = query_admit_details_table()
+    return render_template('home.html', hospital_table = hospital_table, admit_details_table = admit_details_table)
+
+def query_hospital_table():
+    con = sqlite3.connect(db_locale)
+    c = con.cursor()
+    c.execute('''
+    SELECT * FROM hospitals
+    ''')
+    hospital_data = c.fetchall()
+    return hospital_data
+
+def query_admit_details_table():
+    con = sqlite3.connect(db_locale)
+    c = con.cursor()
+    c.execute('''
+    SELECT * FROM admit_details
+    ''')
+    admit_details_data = c.fetchall()
+    return admit_details_data
+
+
 
 if __name__ == '__main__':
     app.run()
