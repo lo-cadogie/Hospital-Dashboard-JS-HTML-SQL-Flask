@@ -30,7 +30,7 @@ def welcome():
 def home_page():
     hospital_table = query_hospital_table()
     admit_details_table = query_admit_details_table()
-    return render_template('home.html', hospital_table = hospital_table, admit_details_table = admit_details_table)
+    return render_template('Index.html', hospital_table = hospital_table, admit_details_table = admit_details_table)
 
 def query_hospital_table():
     con = sqlite3.connect(db_locale)
