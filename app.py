@@ -23,7 +23,7 @@ def welcome():
     return (
         f"Available Routes:<br/>"
         f"/tables<br/>"
-        f"/api/v1.0/passengers"
+        f"/error_page_do_not_go_to"
     )
 
 @app.route("/tables")
@@ -50,7 +50,9 @@ def query_admit_details_table():
     admit_details_data = c.fetchall()
     return admit_details_data
 
-
+@app.route("/error_page_do_not_go_to")
+def why_page():
+    return "why would you do such a thing?"
 
 if __name__ == '__main__':
     app.run()
