@@ -19,12 +19,8 @@ db_locale = 'Hospital_Boarding.db'
 
 @app.route("/")
 def welcome():
-    """List all available api routes."""
-    return (
-        f"Available Routes:<br/>"
-        f"/tables<br/>"
-        f"/error_page_do_not_go_to"
-    )
+    """This is where Megan's Data will go"""
+    return render_template('MEGANSPAGE DOT html')
 
 @app.route("/tables")
 def home_page():
@@ -50,9 +46,12 @@ def query_admit_details_table():
     admit_details_data = c.fetchall()
     return admit_details_data
 
-@app.route("/error_page_do_not_go_to")
-def why_page():
-    return "why would you do such a thing?"
+
+
+@app.route("/jsonify_data")
+def jsonify():
+    render_template('EDITHSPAGE DOT html')
+
 
 if __name__ == '__main__':
     app.run()
