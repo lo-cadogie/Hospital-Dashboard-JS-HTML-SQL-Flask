@@ -82,7 +82,7 @@ let myMap = L.map("map-id", {
   for (var i = 0; i < hospitals.length; i++) {
     let hospital = hospitals[i];
     L.marker(hospital.location)
-      .bindPopup(`<h1>${hospital.name}</h1><hr><h2>${hospital.city}</h2><hr><h2>Boarding ${hospital.boarding.toLocaleString()}</h2>`)
+      .bindPopup(`<h1>${hospital.name}</h1><hr><h2>${hospital.city}</h2><hr><h2>Boarding (average per patient) ${hospital.boarding.toLocaleString()}</h2>`)
       .addTo(myMap);
   };  
  
