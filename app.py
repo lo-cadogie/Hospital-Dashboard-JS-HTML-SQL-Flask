@@ -22,11 +22,11 @@ def welcome():
     """List all available api routes."""
     return (
         f"Available Routes:<br/>"
-        f"/api/v1.0/names<br/>"
+        f"/tables<br/>"
         f"/api/v1.0/passengers"
     )
 
-@app.route("/home")
+@app.route("/tables")
 def home_page():
     hospital_table = query_hospital_table()
     admit_details_table = query_admit_details_table()
