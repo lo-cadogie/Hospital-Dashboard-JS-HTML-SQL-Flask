@@ -35,6 +35,8 @@ disposition = Base.classes.admit_v_transfer
 app = Flask(__name__)
 db_locale = 'Hospital_Boarding.db'
 
+cors = CORS(app)
+
 #################################################
 # Flask Routes
 #################################################
