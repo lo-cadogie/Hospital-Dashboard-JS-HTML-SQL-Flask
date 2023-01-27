@@ -21,7 +21,11 @@ d3.json(monthly_data_url).then(data => {
   //   let hospital = [latitude, longitude],
   //   // let latitude = coordinates[1];
   //   // let longitude = coordinates[0];
-    
+      let city = "city"
+      let location = []
+      let latitude = location[1];
+      let longitude = location[0];
+      console.log(location)
 });
 
   // An array containing each city's name, location, and population
@@ -29,67 +33,67 @@ d3.json(monthly_data_url).then(data => {
     location: [47.4785418,-94.8907869],
     name: "Hospital A",
     city: "Bemidiji",
-    boarding: 8550405
+    boarding: 140.5
   },
   {
     location: [48.905266,-95.314404],
     name: "Hospital B",
     city: "Warroad",
-    boarding: 2720546
+    boarding: 79
   },
   {
     location: [45.8769031,-93.2938352],
     name: "Hospital C",
     city: "Mora",
-    boarding: 2296224
+    boarding: 103
   },
   {
     location: [44.9497487,-93.0931028],
     name: "Hospital D",
     city: "Saint Paul",
-    boarding: 3971883
+    boarding: 129
   },
   {
     location: [44.9772995,-93.2654692],
     name: "Hospital E",
     city: "Minneapolis",
-    boarding: 446599
+    boarding: 221.5
   },
   {
     location: [47.2372,-93.5302],
     name: "Hospital F",
     city: "Grand Rapids",
-    boarding: 446599
+    boarding: 192
   },
   {
     location: [45.5579,-94.1632],
     name: "Hospital G",
     city: "Saint Cloud",
-    boarding: 446599
+    boarding: 197
   },
   {
     location: [43.9986,-96.312],
     name: "Hospital H",
     city: "Pipestone",
-    boarding: 446599
+    boarding: 79
   },
   {
     location: [46.7867,-92.1005],
     name: "Hospital I",
     city: "Minneapolis",
-    boarding: 446599
+    boarding: 193
   },
   {
     location: [45.6747,-94.80752],
     name: "Hospital J",
     city: "Melrose",
-    boarding: 446599
+    boarding: 127
   },
   {
     location: [44.1636,-93.9994],
     name: "Hospital K",
     city: "Mankato",
-    boarding: 446599
+    boarding: 214
   }
   ];
   
