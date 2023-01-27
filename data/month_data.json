@@ -1,0 +1,2402 @@
+[
+    {
+      "City": "Bemidji",
+      "Latitude": "47.4785418000",
+      "Longitude": "-94.8907869000",
+      "hospital_code": "A",
+      "mean_wait": 2.173894081,
+      "year_month": "2021-01"
+    },
+    {
+      "City": "Bemidji",
+      "Latitude": "47.4785418000",
+      "Longitude": "-94.8907869000",
+      "hospital_code": "A",
+      "mean_wait": 1.9250176929,
+      "year_month": "2021-02"
+    },
+    {
+      "City": "Bemidji",
+      "Latitude": "47.4785418000",
+      "Longitude": "-94.8907869000",
+      "hospital_code": "A",
+      "mean_wait": 1.8803357314,
+      "year_month": "2021-03"
+    },
+    {
+      "City": "Bemidji",
+      "Latitude": "47.4785418000",
+      "Longitude": "-94.8907869000",
+      "hospital_code": "A",
+      "mean_wait": 2.5780328798,
+      "year_month": "2021-04"
+    },
+    {
+      "City": "Bemidji",
+      "Latitude": "47.4785418000",
+      "Longitude": "-94.8907869000",
+      "hospital_code": "A",
+      "mean_wait": 2.3175605536,
+      "year_month": "2021-05"
+    },
+    {
+      "City": "Bemidji",
+      "Latitude": "47.4785418000",
+      "Longitude": "-94.8907869000",
+      "hospital_code": "A",
+      "mean_wait": 2.3263573232,
+      "year_month": "2021-06"
+    },
+    {
+      "City": "Bemidji",
+      "Latitude": "47.4785418000",
+      "Longitude": "-94.8907869000",
+      "hospital_code": "A",
+      "mean_wait": 2.0988418079,
+      "year_month": "2021-07"
+    },
+    {
+      "City": "Bemidji",
+      "Latitude": "47.4785418000",
+      "Longitude": "-94.8907869000",
+      "hospital_code": "A",
+      "mean_wait": 3.2031944444,
+      "year_month": "2021-08"
+    },
+    {
+      "City": "Bemidji",
+      "Latitude": "47.4785418000",
+      "Longitude": "-94.8907869000",
+      "hospital_code": "A",
+      "mean_wait": 4.0793695381,
+      "year_month": "2021-09"
+    },
+    {
+      "City": "Bemidji",
+      "Latitude": "47.4785418000",
+      "Longitude": "-94.8907869000",
+      "hospital_code": "A",
+      "mean_wait": 6.0986369269,
+      "year_month": "2021-10"
+    },
+    {
+      "City": "Bemidji",
+      "Latitude": "47.4785418000",
+      "Longitude": "-94.8907869000",
+      "hospital_code": "A",
+      "mean_wait": 6.8803979126,
+      "year_month": "2021-11"
+    },
+    {
+      "City": "Bemidji",
+      "Latitude": "47.4785418000",
+      "Longitude": "-94.8907869000",
+      "hospital_code": "A",
+      "mean_wait": 7.3958628842,
+      "year_month": "2021-12"
+    },
+    {
+      "City": "Bemidji",
+      "Latitude": "47.4785418000",
+      "Longitude": "-94.8907869000",
+      "hospital_code": "A",
+      "mean_wait": 5.4197628458,
+      "year_month": "2022-01"
+    },
+    {
+      "City": "Bemidji",
+      "Latitude": "47.4785418000",
+      "Longitude": "-94.8907869000",
+      "hospital_code": "A",
+      "mean_wait": 2.5048346056,
+      "year_month": "2022-02"
+    },
+    {
+      "City": "Bemidji",
+      "Latitude": "47.4785418000",
+      "Longitude": "-94.8907869000",
+      "hospital_code": "A",
+      "mean_wait": 2.920580561,
+      "year_month": "2022-03"
+    },
+    {
+      "City": "Bemidji",
+      "Latitude": "47.4785418000",
+      "Longitude": "-94.8907869000",
+      "hospital_code": "A",
+      "mean_wait": 3.0444134078,
+      "year_month": "2022-04"
+    },
+    {
+      "City": "Bemidji",
+      "Latitude": "47.4785418000",
+      "Longitude": "-94.8907869000",
+      "hospital_code": "A",
+      "mean_wait": 2.7137980493,
+      "year_month": "2022-05"
+    },
+    {
+      "City": "Bemidji",
+      "Latitude": "47.4785418000",
+      "Longitude": "-94.8907869000",
+      "hospital_code": "A",
+      "mean_wait": 3.2767295597,
+      "year_month": "2022-06"
+    },
+    {
+      "City": "Bemidji",
+      "Latitude": "47.4785418000",
+      "Longitude": "-94.8907869000",
+      "hospital_code": "A",
+      "mean_wait": 3.7584670232,
+      "year_month": "2022-07"
+    },
+    {
+      "City": "Bemidji",
+      "Latitude": "47.4785418000",
+      "Longitude": "-94.8907869000",
+      "hospital_code": "A",
+      "mean_wait": 3.6374848485,
+      "year_month": "2022-08"
+    },
+    {
+      "City": "Bemidji",
+      "Latitude": "47.4785418000",
+      "Longitude": "-94.8907869000",
+      "hospital_code": "A",
+      "mean_wait": 3.913539823,
+      "year_month": "2022-09"
+    },
+    {
+      "City": "Bemidji",
+      "Latitude": "47.4785418000",
+      "Longitude": "-94.8907869000",
+      "hospital_code": "A",
+      "mean_wait": 3.8488545246,
+      "year_month": "2022-10"
+    },
+    {
+      "City": "Bemidji",
+      "Latitude": "47.4785418000",
+      "Longitude": "-94.8907869000",
+      "hospital_code": "A",
+      "mean_wait": 4.9878759398,
+      "year_month": "2022-11"
+    },
+    {
+      "City": "Bemidji",
+      "Latitude": "47.4785418000",
+      "Longitude": "-94.8907869000",
+      "hospital_code": "A",
+      "mean_wait": 7.4065798988,
+      "year_month": "2022-12"
+    },
+    {
+      "City": "Bemidji",
+      "Latitude": "47.4785418000",
+      "Longitude": "-94.8907869000",
+      "hospital_code": "A",
+      "mean_wait": 4.0357142857,
+      "year_month": "2023-01"
+    },
+    {
+      "City": "Warroad",
+      "Latitude": "48.9052660000",
+      "Longitude": "-95.3144040000",
+      "hospital_code": "B",
+      "mean_wait": 1.9413793103,
+      "year_month": "2021-01"
+    },
+    {
+      "City": "Warroad",
+      "Latitude": "48.9052660000",
+      "Longitude": "-95.3144040000",
+      "hospital_code": "B",
+      "mean_wait": 1.3847868217,
+      "year_month": "2021-02"
+    },
+    {
+      "City": "Warroad",
+      "Latitude": "48.9052660000",
+      "Longitude": "-95.3144040000",
+      "hospital_code": "B",
+      "mean_wait": 1.4082137161,
+      "year_month": "2021-03"
+    },
+    {
+      "City": "Warroad",
+      "Latitude": "48.9052660000",
+      "Longitude": "-95.3144040000",
+      "hospital_code": "B",
+      "mean_wait": 2.1042011019,
+      "year_month": "2021-04"
+    },
+    {
+      "City": "Warroad",
+      "Latitude": "48.9052660000",
+      "Longitude": "-95.3144040000",
+      "hospital_code": "B",
+      "mean_wait": 1.890339233,
+      "year_month": "2021-05"
+    },
+    {
+      "City": "Warroad",
+      "Latitude": "48.9052660000",
+      "Longitude": "-95.3144040000",
+      "hospital_code": "B",
+      "mean_wait": 1.6732394366,
+      "year_month": "2021-06"
+    },
+    {
+      "City": "Warroad",
+      "Latitude": "48.9052660000",
+      "Longitude": "-95.3144040000",
+      "hospital_code": "B",
+      "mean_wait": 1.7963040446,
+      "year_month": "2021-07"
+    },
+    {
+      "City": "Warroad",
+      "Latitude": "48.9052660000",
+      "Longitude": "-95.3144040000",
+      "hospital_code": "B",
+      "mean_wait": 1.9134955752,
+      "year_month": "2021-08"
+    },
+    {
+      "City": "Warroad",
+      "Latitude": "48.9052660000",
+      "Longitude": "-95.3144040000",
+      "hospital_code": "B",
+      "mean_wait": 2.4080279232,
+      "year_month": "2021-09"
+    },
+    {
+      "City": "Warroad",
+      "Latitude": "48.9052660000",
+      "Longitude": "-95.3144040000",
+      "hospital_code": "B",
+      "mean_wait": 3.2058159722,
+      "year_month": "2021-10"
+    },
+    {
+      "City": "Warroad",
+      "Latitude": "48.9052660000",
+      "Longitude": "-95.3144040000",
+      "hospital_code": "B",
+      "mean_wait": 2.5156367041,
+      "year_month": "2021-11"
+    },
+    {
+      "City": "Warroad",
+      "Latitude": "48.9052660000",
+      "Longitude": "-95.3144040000",
+      "hospital_code": "B",
+      "mean_wait": 3.2864705882,
+      "year_month": "2021-12"
+    },
+    {
+      "City": "Warroad",
+      "Latitude": "48.9052660000",
+      "Longitude": "-95.3144040000",
+      "hospital_code": "B",
+      "mean_wait": 2.1363834423,
+      "year_month": "2022-01"
+    },
+    {
+      "City": "Warroad",
+      "Latitude": "48.9052660000",
+      "Longitude": "-95.3144040000",
+      "hospital_code": "B",
+      "mean_wait": 1.9972222222,
+      "year_month": "2022-02"
+    },
+    {
+      "City": "Warroad",
+      "Latitude": "48.9052660000",
+      "Longitude": "-95.3144040000",
+      "hospital_code": "B",
+      "mean_wait": 1.5365511551,
+      "year_month": "2022-03"
+    },
+    {
+      "City": "Warroad",
+      "Latitude": "48.9052660000",
+      "Longitude": "-95.3144040000",
+      "hospital_code": "B",
+      "mean_wait": 1.8515151515,
+      "year_month": "2022-04"
+    },
+    {
+      "City": "Warroad",
+      "Latitude": "48.9052660000",
+      "Longitude": "-95.3144040000",
+      "hospital_code": "B",
+      "mean_wait": 2.322361809,
+      "year_month": "2022-05"
+    },
+    {
+      "City": "Warroad",
+      "Latitude": "48.9052660000",
+      "Longitude": "-95.3144040000",
+      "hospital_code": "B",
+      "mean_wait": 3.1229281768,
+      "year_month": "2022-06"
+    },
+    {
+      "City": "Warroad",
+      "Latitude": "48.9052660000",
+      "Longitude": "-95.3144040000",
+      "hospital_code": "B",
+      "mean_wait": 1.8914948454,
+      "year_month": "2022-07"
+    },
+    {
+      "City": "Warroad",
+      "Latitude": "48.9052660000",
+      "Longitude": "-95.3144040000",
+      "hospital_code": "B",
+      "mean_wait": 2.1721405229,
+      "year_month": "2022-08"
+    },
+    {
+      "City": "Warroad",
+      "Latitude": "48.9052660000",
+      "Longitude": "-95.3144040000",
+      "hospital_code": "B",
+      "mean_wait": 2.3712328767,
+      "year_month": "2022-09"
+    },
+    {
+      "City": "Warroad",
+      "Latitude": "48.9052660000",
+      "Longitude": "-95.3144040000",
+      "hospital_code": "B",
+      "mean_wait": 2.639869281,
+      "year_month": "2022-10"
+    },
+    {
+      "City": "Warroad",
+      "Latitude": "48.9052660000",
+      "Longitude": "-95.3144040000",
+      "hospital_code": "B",
+      "mean_wait": 2.9918776371,
+      "year_month": "2022-11"
+    },
+    {
+      "City": "Warroad",
+      "Latitude": "48.9052660000",
+      "Longitude": "-95.3144040000",
+      "hospital_code": "B",
+      "mean_wait": 2.2914201183,
+      "year_month": "2022-12"
+    },
+    {
+      "City": "Warroad",
+      "Latitude": "48.9052660000",
+      "Longitude": "-95.3144040000",
+      "hospital_code": "B",
+      "mean_wait": 2.5968599034,
+      "year_month": "2023-01"
+    },
+    {
+      "City": "Mora",
+      "Latitude": "45.8769031000",
+      "Longitude": "-93.2938352000",
+      "hospital_code": "C",
+      "mean_wait": 1.8127927928,
+      "year_month": "2021-01"
+    },
+    {
+      "City": "Mora",
+      "Latitude": "45.8769031000",
+      "Longitude": "-93.2938352000",
+      "hospital_code": "C",
+      "mean_wait": 1.8894335512,
+      "year_month": "2021-02"
+    },
+    {
+      "City": "Mora",
+      "Latitude": "45.8769031000",
+      "Longitude": "-93.2938352000",
+      "hospital_code": "C",
+      "mean_wait": 2.1073248408,
+      "year_month": "2021-03"
+    },
+    {
+      "City": "Mora",
+      "Latitude": "45.8769031000",
+      "Longitude": "-93.2938352000",
+      "hospital_code": "C",
+      "mean_wait": 2.2578034682,
+      "year_month": "2021-04"
+    },
+    {
+      "City": "Mora",
+      "Latitude": "45.8769031000",
+      "Longitude": "-93.2938352000",
+      "hospital_code": "C",
+      "mean_wait": 1.8154022989,
+      "year_month": "2021-05"
+    },
+    {
+      "City": "Mora",
+      "Latitude": "45.8769031000",
+      "Longitude": "-93.2938352000",
+      "hospital_code": "C",
+      "mean_wait": 2.1331210191,
+      "year_month": "2021-06"
+    },
+    {
+      "City": "Mora",
+      "Latitude": "45.8769031000",
+      "Longitude": "-93.2938352000",
+      "hospital_code": "C",
+      "mean_wait": 1.7506472492,
+      "year_month": "2021-07"
+    },
+    {
+      "City": "Mora",
+      "Latitude": "45.8769031000",
+      "Longitude": "-93.2938352000",
+      "hospital_code": "C",
+      "mean_wait": 1.797515528,
+      "year_month": "2021-08"
+    },
+    {
+      "City": "Mora",
+      "Latitude": "45.8769031000",
+      "Longitude": "-93.2938352000",
+      "hospital_code": "C",
+      "mean_wait": 2.2135245902,
+      "year_month": "2021-09"
+    },
+    {
+      "City": "Mora",
+      "Latitude": "45.8769031000",
+      "Longitude": "-93.2938352000",
+      "hospital_code": "C",
+      "mean_wait": 2.0013157895,
+      "year_month": "2021-10"
+    },
+    {
+      "City": "Mora",
+      "Latitude": "45.8769031000",
+      "Longitude": "-93.2938352000",
+      "hospital_code": "C",
+      "mean_wait": 2.9417910448,
+      "year_month": "2021-11"
+    },
+    {
+      "City": "Mora",
+      "Latitude": "45.8769031000",
+      "Longitude": "-93.2938352000",
+      "hospital_code": "C",
+      "mean_wait": 3.6394736842,
+      "year_month": "2021-12"
+    },
+    {
+      "City": "Mora",
+      "Latitude": "45.8769031000",
+      "Longitude": "-93.2938352000",
+      "hospital_code": "C",
+      "mean_wait": 3.2916666667,
+      "year_month": "2022-01"
+    },
+    {
+      "City": "Mora",
+      "Latitude": "45.8769031000",
+      "Longitude": "-93.2938352000",
+      "hospital_code": "C",
+      "mean_wait": 2.6545931759,
+      "year_month": "2022-02"
+    },
+    {
+      "City": "Mora",
+      "Latitude": "45.8769031000",
+      "Longitude": "-93.2938352000",
+      "hospital_code": "C",
+      "mean_wait": 1.9267741935,
+      "year_month": "2022-03"
+    },
+    {
+      "City": "Mora",
+      "Latitude": "45.8769031000",
+      "Longitude": "-93.2938352000",
+      "hospital_code": "C",
+      "mean_wait": 1.9790178571,
+      "year_month": "2022-04"
+    },
+    {
+      "City": "Mora",
+      "Latitude": "45.8769031000",
+      "Longitude": "-93.2938352000",
+      "hospital_code": "C",
+      "mean_wait": 2.2248344371,
+      "year_month": "2022-05"
+    },
+    {
+      "City": "Mora",
+      "Latitude": "45.8769031000",
+      "Longitude": "-93.2938352000",
+      "hospital_code": "C",
+      "mean_wait": 3.3170091324,
+      "year_month": "2022-06"
+    },
+    {
+      "City": "Mora",
+      "Latitude": "45.8769031000",
+      "Longitude": "-93.2938352000",
+      "hospital_code": "C",
+      "mean_wait": 2.5502624672,
+      "year_month": "2022-07"
+    },
+    {
+      "City": "Mora",
+      "Latitude": "45.8769031000",
+      "Longitude": "-93.2938352000",
+      "hospital_code": "C",
+      "mean_wait": 2.0827635328,
+      "year_month": "2022-08"
+    },
+    {
+      "City": "Mora",
+      "Latitude": "45.8769031000",
+      "Longitude": "-93.2938352000",
+      "hospital_code": "C",
+      "mean_wait": 2.5096866097,
+      "year_month": "2022-09"
+    },
+    {
+      "City": "Mora",
+      "Latitude": "45.8769031000",
+      "Longitude": "-93.2938352000",
+      "hospital_code": "C",
+      "mean_wait": 3.3637254902,
+      "year_month": "2022-10"
+    },
+    {
+      "City": "Mora",
+      "Latitude": "45.8769031000",
+      "Longitude": "-93.2938352000",
+      "hospital_code": "C",
+      "mean_wait": 3.1313186813,
+      "year_month": "2022-11"
+    },
+    {
+      "City": "Mora",
+      "Latitude": "45.8769031000",
+      "Longitude": "-93.2938352000",
+      "hospital_code": "C",
+      "mean_wait": 5.2266260163,
+      "year_month": "2022-12"
+    },
+    {
+      "City": "Mora",
+      "Latitude": "45.8769031000",
+      "Longitude": "-93.2938352000",
+      "hospital_code": "C",
+      "mean_wait": 3.108974359,
+      "year_month": "2023-01"
+    },
+    {
+      "City": "Saint Paul",
+      "Latitude": "44.9497487000",
+      "Longitude": "-93.0931028000",
+      "hospital_code": "D",
+      "mean_wait": 2.6493375174,
+      "year_month": "2021-01"
+    },
+    {
+      "City": "Saint Paul",
+      "Latitude": "44.9497487000",
+      "Longitude": "-93.0931028000",
+      "hospital_code": "D",
+      "mean_wait": 2.7130933953,
+      "year_month": "2021-02"
+    },
+    {
+      "City": "Saint Paul",
+      "Latitude": "44.9497487000",
+      "Longitude": "-93.0931028000",
+      "hospital_code": "D",
+      "mean_wait": 2.7055775143,
+      "year_month": "2021-03"
+    },
+    {
+      "City": "Saint Paul",
+      "Latitude": "44.9497487000",
+      "Longitude": "-93.0931028000",
+      "hospital_code": "D",
+      "mean_wait": 2.5730019493,
+      "year_month": "2021-04"
+    },
+    {
+      "City": "Saint Paul",
+      "Latitude": "44.9497487000",
+      "Longitude": "-93.0931028000",
+      "hospital_code": "D",
+      "mean_wait": 2.6256110084,
+      "year_month": "2021-05"
+    },
+    {
+      "City": "Saint Paul",
+      "Latitude": "44.9497487000",
+      "Longitude": "-93.0931028000",
+      "hospital_code": "D",
+      "mean_wait": 2.7583772186,
+      "year_month": "2021-06"
+    },
+    {
+      "City": "Saint Paul",
+      "Latitude": "44.9497487000",
+      "Longitude": "-93.0931028000",
+      "hospital_code": "D",
+      "mean_wait": 2.7040205562,
+      "year_month": "2021-07"
+    },
+    {
+      "City": "Saint Paul",
+      "Latitude": "44.9497487000",
+      "Longitude": "-93.0931028000",
+      "hospital_code": "D",
+      "mean_wait": 2.7822504125,
+      "year_month": "2021-08"
+    },
+    {
+      "City": "Saint Paul",
+      "Latitude": "44.9497487000",
+      "Longitude": "-93.0931028000",
+      "hospital_code": "D",
+      "mean_wait": 2.798570841,
+      "year_month": "2021-09"
+    },
+    {
+      "City": "Saint Paul",
+      "Latitude": "44.9497487000",
+      "Longitude": "-93.0931028000",
+      "hospital_code": "D",
+      "mean_wait": 2.7948376689,
+      "year_month": "2021-10"
+    },
+    {
+      "City": "Saint Paul",
+      "Latitude": "44.9497487000",
+      "Longitude": "-93.0931028000",
+      "hospital_code": "D",
+      "mean_wait": 2.9979166667,
+      "year_month": "2021-11"
+    },
+    {
+      "City": "Saint Paul",
+      "Latitude": "44.9497487000",
+      "Longitude": "-93.0931028000",
+      "hospital_code": "D",
+      "mean_wait": 3.101556157,
+      "year_month": "2021-12"
+    },
+    {
+      "City": "Saint Paul",
+      "Latitude": "44.9497487000",
+      "Longitude": "-93.0931028000",
+      "hospital_code": "D",
+      "mean_wait": 2.7355424644,
+      "year_month": "2022-01"
+    },
+    {
+      "City": "Saint Paul",
+      "Latitude": "44.9497487000",
+      "Longitude": "-93.0931028000",
+      "hospital_code": "D",
+      "mean_wait": 2.8313432836,
+      "year_month": "2022-02"
+    },
+    {
+      "City": "Saint Paul",
+      "Latitude": "44.9497487000",
+      "Longitude": "-93.0931028000",
+      "hospital_code": "D",
+      "mean_wait": 2.5100672698,
+      "year_month": "2022-03"
+    },
+    {
+      "City": "Saint Paul",
+      "Latitude": "44.9497487000",
+      "Longitude": "-93.0931028000",
+      "hospital_code": "D",
+      "mean_wait": 2.359077381,
+      "year_month": "2022-04"
+    },
+    {
+      "City": "Saint Paul",
+      "Latitude": "44.9497487000",
+      "Longitude": "-93.0931028000",
+      "hospital_code": "D",
+      "mean_wait": 2.5774824766,
+      "year_month": "2022-05"
+    },
+    {
+      "City": "Saint Paul",
+      "Latitude": "44.9497487000",
+      "Longitude": "-93.0931028000",
+      "hospital_code": "D",
+      "mean_wait": 2.5878209277,
+      "year_month": "2022-06"
+    },
+    {
+      "City": "Saint Paul",
+      "Latitude": "44.9497487000",
+      "Longitude": "-93.0931028000",
+      "hospital_code": "D",
+      "mean_wait": 2.5141792611,
+      "year_month": "2022-07"
+    },
+    {
+      "City": "Saint Paul",
+      "Latitude": "44.9497487000",
+      "Longitude": "-93.0931028000",
+      "hospital_code": "D",
+      "mean_wait": 2.9192672303,
+      "year_month": "2022-08"
+    },
+    {
+      "City": "Saint Paul",
+      "Latitude": "44.9497487000",
+      "Longitude": "-93.0931028000",
+      "hospital_code": "D",
+      "mean_wait": 2.8462151933,
+      "year_month": "2022-09"
+    },
+    {
+      "City": "Saint Paul",
+      "Latitude": "44.9497487000",
+      "Longitude": "-93.0931028000",
+      "hospital_code": "D",
+      "mean_wait": 2.7438508839,
+      "year_month": "2022-10"
+    },
+    {
+      "City": "Saint Paul",
+      "Latitude": "44.9497487000",
+      "Longitude": "-93.0931028000",
+      "hospital_code": "D",
+      "mean_wait": 2.8282707168,
+      "year_month": "2022-11"
+    },
+    {
+      "City": "Saint Paul",
+      "Latitude": "44.9497487000",
+      "Longitude": "-93.0931028000",
+      "hospital_code": "D",
+      "mean_wait": 2.6807484935,
+      "year_month": "2022-12"
+    },
+    {
+      "City": "Saint Paul",
+      "Latitude": "44.9497487000",
+      "Longitude": "-93.0931028000",
+      "hospital_code": "D",
+      "mean_wait": 2.398655914,
+      "year_month": "2023-01"
+    },
+    {
+      "City": "Minneapolis",
+      "Latitude": "44.9772995000",
+      "Longitude": "-93.2654692000",
+      "hospital_code": "E",
+      "mean_wait": 2.696309922,
+      "year_month": "2021-01"
+    },
+    {
+      "City": "Minneapolis",
+      "Latitude": "44.9772995000",
+      "Longitude": "-93.2654692000",
+      "hospital_code": "E",
+      "mean_wait": 2.4300052002,
+      "year_month": "2021-02"
+    },
+    {
+      "City": "Minneapolis",
+      "Latitude": "44.9772995000",
+      "Longitude": "-93.2654692000",
+      "hospital_code": "E",
+      "mean_wait": 2.6722614149,
+      "year_month": "2021-03"
+    },
+    {
+      "City": "Minneapolis",
+      "Latitude": "44.9772995000",
+      "Longitude": "-93.2654692000",
+      "hospital_code": "E",
+      "mean_wait": 3.6157240788,
+      "year_month": "2021-04"
+    },
+    {
+      "City": "Minneapolis",
+      "Latitude": "44.9772995000",
+      "Longitude": "-93.2654692000",
+      "hospital_code": "E",
+      "mean_wait": 3.1546349206,
+      "year_month": "2021-05"
+    },
+    {
+      "City": "Minneapolis",
+      "Latitude": "44.9772995000",
+      "Longitude": "-93.2654692000",
+      "hospital_code": "E",
+      "mean_wait": 3.4501650165,
+      "year_month": "2021-06"
+    },
+    {
+      "City": "Minneapolis",
+      "Latitude": "44.9772995000",
+      "Longitude": "-93.2654692000",
+      "hospital_code": "E",
+      "mean_wait": 3.3742611908,
+      "year_month": "2021-07"
+    },
+    {
+      "City": "Minneapolis",
+      "Latitude": "44.9772995000",
+      "Longitude": "-93.2654692000",
+      "hospital_code": "E",
+      "mean_wait": 4.3108890345,
+      "year_month": "2021-08"
+    },
+    {
+      "City": "Minneapolis",
+      "Latitude": "44.9772995000",
+      "Longitude": "-93.2654692000",
+      "hospital_code": "E",
+      "mean_wait": 5.2032400932,
+      "year_month": "2021-09"
+    },
+    {
+      "City": "Minneapolis",
+      "Latitude": "44.9772995000",
+      "Longitude": "-93.2654692000",
+      "hospital_code": "E",
+      "mean_wait": 6.6415715644,
+      "year_month": "2021-10"
+    },
+    {
+      "City": "Minneapolis",
+      "Latitude": "44.9772995000",
+      "Longitude": "-93.2654692000",
+      "hospital_code": "E",
+      "mean_wait": 8.0412368489,
+      "year_month": "2021-11"
+    },
+    {
+      "City": "Minneapolis",
+      "Latitude": "44.9772995000",
+      "Longitude": "-93.2654692000",
+      "hospital_code": "E",
+      "mean_wait": 8.1621894046,
+      "year_month": "2021-12"
+    },
+    {
+      "City": "Minneapolis",
+      "Latitude": "44.9772995000",
+      "Longitude": "-93.2654692000",
+      "hospital_code": "E",
+      "mean_wait": 7.2251990446,
+      "year_month": "2022-01"
+    },
+    {
+      "City": "Minneapolis",
+      "Latitude": "44.9772995000",
+      "Longitude": "-93.2654692000",
+      "hospital_code": "E",
+      "mean_wait": 3.4535619351,
+      "year_month": "2022-02"
+    },
+    {
+      "City": "Minneapolis",
+      "Latitude": "44.9772995000",
+      "Longitude": "-93.2654692000",
+      "hospital_code": "E",
+      "mean_wait": 4.0877982518,
+      "year_month": "2022-03"
+    },
+    {
+      "City": "Minneapolis",
+      "Latitude": "44.9772995000",
+      "Longitude": "-93.2654692000",
+      "hospital_code": "E",
+      "mean_wait": 4.63104782,
+      "year_month": "2022-04"
+    },
+    {
+      "City": "Minneapolis",
+      "Latitude": "44.9772995000",
+      "Longitude": "-93.2654692000",
+      "hospital_code": "E",
+      "mean_wait": 3.9246523105,
+      "year_month": "2022-05"
+    },
+    {
+      "City": "Minneapolis",
+      "Latitude": "44.9772995000",
+      "Longitude": "-93.2654692000",
+      "hospital_code": "E",
+      "mean_wait": 5.0238664844,
+      "year_month": "2022-06"
+    },
+    {
+      "City": "Minneapolis",
+      "Latitude": "44.9772995000",
+      "Longitude": "-93.2654692000",
+      "hospital_code": "E",
+      "mean_wait": 4.9606971678,
+      "year_month": "2022-07"
+    },
+    {
+      "City": "Minneapolis",
+      "Latitude": "44.9772995000",
+      "Longitude": "-93.2654692000",
+      "hospital_code": "E",
+      "mean_wait": 5.4515530047,
+      "year_month": "2022-08"
+    },
+    {
+      "City": "Minneapolis",
+      "Latitude": "44.9772995000",
+      "Longitude": "-93.2654692000",
+      "hospital_code": "E",
+      "mean_wait": 6.4230458541,
+      "year_month": "2022-09"
+    },
+    {
+      "City": "Minneapolis",
+      "Latitude": "44.9772995000",
+      "Longitude": "-93.2654692000",
+      "hospital_code": "E",
+      "mean_wait": 6.3362236437,
+      "year_month": "2022-10"
+    },
+    {
+      "City": "Minneapolis",
+      "Latitude": "44.9772995000",
+      "Longitude": "-93.2654692000",
+      "hospital_code": "E",
+      "mean_wait": 7.6843869088,
+      "year_month": "2022-11"
+    },
+    {
+      "City": "Minneapolis",
+      "Latitude": "44.9772995000",
+      "Longitude": "-93.2654692000",
+      "hospital_code": "E",
+      "mean_wait": 9.4957591179,
+      "year_month": "2022-12"
+    },
+    {
+      "City": "Minneapolis",
+      "Latitude": "44.9772995000",
+      "Longitude": "-93.2654692000",
+      "hospital_code": "E",
+      "mean_wait": 5.5644444444,
+      "year_month": "2023-01"
+    },
+    {
+      "City": "Grand Rapids",
+      "Latitude": "47.2372000000",
+      "Longitude": "-93.5302000000",
+      "hospital_code": "F",
+      "mean_wait": 2.7202456779,
+      "year_month": "2021-01"
+    },
+    {
+      "City": "Grand Rapids",
+      "Latitude": "47.2372000000",
+      "Longitude": "-93.5302000000",
+      "hospital_code": "F",
+      "mean_wait": 2.6168541432,
+      "year_month": "2021-02"
+    },
+    {
+      "City": "Grand Rapids",
+      "Latitude": "47.2372000000",
+      "Longitude": "-93.5302000000",
+      "hospital_code": "F",
+      "mean_wait": 2.3070136418,
+      "year_month": "2021-03"
+    },
+    {
+      "City": "Grand Rapids",
+      "Latitude": "47.2372000000",
+      "Longitude": "-93.5302000000",
+      "hospital_code": "F",
+      "mean_wait": 2.8058429973,
+      "year_month": "2021-04"
+    },
+    {
+      "City": "Grand Rapids",
+      "Latitude": "47.2372000000",
+      "Longitude": "-93.5302000000",
+      "hospital_code": "F",
+      "mean_wait": 2.7191264162,
+      "year_month": "2021-05"
+    },
+    {
+      "City": "Grand Rapids",
+      "Latitude": "47.2372000000",
+      "Longitude": "-93.5302000000",
+      "hospital_code": "F",
+      "mean_wait": 2.5021379103,
+      "year_month": "2021-06"
+    },
+    {
+      "City": "Grand Rapids",
+      "Latitude": "47.2372000000",
+      "Longitude": "-93.5302000000",
+      "hospital_code": "F",
+      "mean_wait": 2.880491755,
+      "year_month": "2021-07"
+    },
+    {
+      "City": "Grand Rapids",
+      "Latitude": "47.2372000000",
+      "Longitude": "-93.5302000000",
+      "hospital_code": "F",
+      "mean_wait": 3.4559332141,
+      "year_month": "2021-08"
+    },
+    {
+      "City": "Grand Rapids",
+      "Latitude": "47.2372000000",
+      "Longitude": "-93.5302000000",
+      "hospital_code": "F",
+      "mean_wait": 4.0261816497,
+      "year_month": "2021-09"
+    },
+    {
+      "City": "Grand Rapids",
+      "Latitude": "47.2372000000",
+      "Longitude": "-93.5302000000",
+      "hospital_code": "F",
+      "mean_wait": 4.2229240283,
+      "year_month": "2021-10"
+    },
+    {
+      "City": "Grand Rapids",
+      "Latitude": "47.2372000000",
+      "Longitude": "-93.5302000000",
+      "hospital_code": "F",
+      "mean_wait": 7.3524059911,
+      "year_month": "2021-11"
+    },
+    {
+      "City": "Grand Rapids",
+      "Latitude": "47.2372000000",
+      "Longitude": "-93.5302000000",
+      "hospital_code": "F",
+      "mean_wait": 7.9564210199,
+      "year_month": "2021-12"
+    },
+    {
+      "City": "Grand Rapids",
+      "Latitude": "47.2372000000",
+      "Longitude": "-93.5302000000",
+      "hospital_code": "F",
+      "mean_wait": 8.4175545171,
+      "year_month": "2022-01"
+    },
+    {
+      "City": "Grand Rapids",
+      "Latitude": "47.2372000000",
+      "Longitude": "-93.5302000000",
+      "hospital_code": "F",
+      "mean_wait": 3.6446288365,
+      "year_month": "2022-02"
+    },
+    {
+      "City": "Grand Rapids",
+      "Latitude": "47.2372000000",
+      "Longitude": "-93.5302000000",
+      "hospital_code": "F",
+      "mean_wait": 3.4328079393,
+      "year_month": "2022-03"
+    },
+    {
+      "City": "Grand Rapids",
+      "Latitude": "47.2372000000",
+      "Longitude": "-93.5302000000",
+      "hospital_code": "F",
+      "mean_wait": 4.0648196248,
+      "year_month": "2022-04"
+    },
+    {
+      "City": "Grand Rapids",
+      "Latitude": "47.2372000000",
+      "Longitude": "-93.5302000000",
+      "hospital_code": "F",
+      "mean_wait": 5.6857162089,
+      "year_month": "2022-05"
+    },
+    {
+      "City": "Grand Rapids",
+      "Latitude": "47.2372000000",
+      "Longitude": "-93.5302000000",
+      "hospital_code": "F",
+      "mean_wait": 4.6731051,
+      "year_month": "2022-06"
+    },
+    {
+      "City": "Grand Rapids",
+      "Latitude": "47.2372000000",
+      "Longitude": "-93.5302000000",
+      "hospital_code": "F",
+      "mean_wait": 5.8225768322,
+      "year_month": "2022-07"
+    },
+    {
+      "City": "Grand Rapids",
+      "Latitude": "47.2372000000",
+      "Longitude": "-93.5302000000",
+      "hospital_code": "F",
+      "mean_wait": 5.1144825564,
+      "year_month": "2022-08"
+    },
+    {
+      "City": "Grand Rapids",
+      "Latitude": "47.2372000000",
+      "Longitude": "-93.5302000000",
+      "hospital_code": "F",
+      "mean_wait": 6.1788828338,
+      "year_month": "2022-09"
+    },
+    {
+      "City": "Grand Rapids",
+      "Latitude": "47.2372000000",
+      "Longitude": "-93.5302000000",
+      "hospital_code": "F",
+      "mean_wait": 7.9578712261,
+      "year_month": "2022-10"
+    },
+    {
+      "City": "Grand Rapids",
+      "Latitude": "47.2372000000",
+      "Longitude": "-93.5302000000",
+      "hospital_code": "F",
+      "mean_wait": 10.0452551477,
+      "year_month": "2022-11"
+    },
+    {
+      "City": "Grand Rapids",
+      "Latitude": "47.2372000000",
+      "Longitude": "-93.5302000000",
+      "hospital_code": "F",
+      "mean_wait": 8.714957834,
+      "year_month": "2022-12"
+    },
+    {
+      "City": "Grand Rapids",
+      "Latitude": "47.2372000000",
+      "Longitude": "-93.5302000000",
+      "hospital_code": "F",
+      "mean_wait": 5.2208333333,
+      "year_month": "2023-01"
+    },
+    {
+      "City": "Saint Cloud",
+      "Latitude": "45.5579000000",
+      "Longitude": "-94.1632000000",
+      "hospital_code": "G",
+      "mean_wait": 2.4133243808,
+      "year_month": "2021-01"
+    },
+    {
+      "City": "Saint Cloud",
+      "Latitude": "45.5579000000",
+      "Longitude": "-94.1632000000",
+      "hospital_code": "G",
+      "mean_wait": 2.3818209594,
+      "year_month": "2021-02"
+    },
+    {
+      "City": "Saint Cloud",
+      "Latitude": "45.5579000000",
+      "Longitude": "-94.1632000000",
+      "hospital_code": "G",
+      "mean_wait": 2.3943812618,
+      "year_month": "2021-03"
+    },
+    {
+      "City": "Saint Cloud",
+      "Latitude": "45.5579000000",
+      "Longitude": "-94.1632000000",
+      "hospital_code": "G",
+      "mean_wait": 2.7121562156,
+      "year_month": "2021-04"
+    },
+    {
+      "City": "Saint Cloud",
+      "Latitude": "45.5579000000",
+      "Longitude": "-94.1632000000",
+      "hospital_code": "G",
+      "mean_wait": 3.3085018144,
+      "year_month": "2021-05"
+    },
+    {
+      "City": "Saint Cloud",
+      "Latitude": "45.5579000000",
+      "Longitude": "-94.1632000000",
+      "hospital_code": "G",
+      "mean_wait": 3.1460808926,
+      "year_month": "2021-06"
+    },
+    {
+      "City": "Saint Cloud",
+      "Latitude": "45.5579000000",
+      "Longitude": "-94.1632000000",
+      "hospital_code": "G",
+      "mean_wait": 3.9961965135,
+      "year_month": "2021-07"
+    },
+    {
+      "City": "Saint Cloud",
+      "Latitude": "45.5579000000",
+      "Longitude": "-94.1632000000",
+      "hospital_code": "G",
+      "mean_wait": 5.8254048018,
+      "year_month": "2021-08"
+    },
+    {
+      "City": "Saint Cloud",
+      "Latitude": "45.5579000000",
+      "Longitude": "-94.1632000000",
+      "hospital_code": "G",
+      "mean_wait": 5.2721635884,
+      "year_month": "2021-09"
+    },
+    {
+      "City": "Saint Cloud",
+      "Latitude": "45.5579000000",
+      "Longitude": "-94.1632000000",
+      "hospital_code": "G",
+      "mean_wait": 6.8661645746,
+      "year_month": "2021-10"
+    },
+    {
+      "City": "Saint Cloud",
+      "Latitude": "45.5579000000",
+      "Longitude": "-94.1632000000",
+      "hospital_code": "G",
+      "mean_wait": 6.3005117566,
+      "year_month": "2021-11"
+    },
+    {
+      "City": "Saint Cloud",
+      "Latitude": "45.5579000000",
+      "Longitude": "-94.1632000000",
+      "hospital_code": "G",
+      "mean_wait": 5.7894065446,
+      "year_month": "2021-12"
+    },
+    {
+      "City": "Saint Cloud",
+      "Latitude": "45.5579000000",
+      "Longitude": "-94.1632000000",
+      "hospital_code": "G",
+      "mean_wait": 5.275317139,
+      "year_month": "2022-01"
+    },
+    {
+      "City": "Saint Cloud",
+      "Latitude": "45.5579000000",
+      "Longitude": "-94.1632000000",
+      "hospital_code": "G",
+      "mean_wait": 4.1437128292,
+      "year_month": "2022-02"
+    },
+    {
+      "City": "Saint Cloud",
+      "Latitude": "45.5579000000",
+      "Longitude": "-94.1632000000",
+      "hospital_code": "G",
+      "mean_wait": 3.7780052493,
+      "year_month": "2022-03"
+    },
+    {
+      "City": "Saint Cloud",
+      "Latitude": "45.5579000000",
+      "Longitude": "-94.1632000000",
+      "hospital_code": "G",
+      "mean_wait": 3.5125455018,
+      "year_month": "2022-04"
+    },
+    {
+      "City": "Saint Cloud",
+      "Latitude": "45.5579000000",
+      "Longitude": "-94.1632000000",
+      "hospital_code": "G",
+      "mean_wait": 4.9575160971,
+      "year_month": "2022-05"
+    },
+    {
+      "City": "Saint Cloud",
+      "Latitude": "45.5579000000",
+      "Longitude": "-94.1632000000",
+      "hospital_code": "G",
+      "mean_wait": 5.3633201058,
+      "year_month": "2022-06"
+    },
+    {
+      "City": "Saint Cloud",
+      "Latitude": "45.5579000000",
+      "Longitude": "-94.1632000000",
+      "hospital_code": "G",
+      "mean_wait": 4.5796550795,
+      "year_month": "2022-07"
+    },
+    {
+      "City": "Saint Cloud",
+      "Latitude": "45.5579000000",
+      "Longitude": "-94.1632000000",
+      "hospital_code": "G",
+      "mean_wait": 4.6595892203,
+      "year_month": "2022-08"
+    },
+    {
+      "City": "Saint Cloud",
+      "Latitude": "45.5579000000",
+      "Longitude": "-94.1632000000",
+      "hospital_code": "G",
+      "mean_wait": 7.2301070724,
+      "year_month": "2022-09"
+    },
+    {
+      "City": "Saint Cloud",
+      "Latitude": "45.5579000000",
+      "Longitude": "-94.1632000000",
+      "hospital_code": "G",
+      "mean_wait": 8.2207144798,
+      "year_month": "2022-10"
+    },
+    {
+      "City": "Saint Cloud",
+      "Latitude": "45.5579000000",
+      "Longitude": "-94.1632000000",
+      "hospital_code": "G",
+      "mean_wait": 9.2229112834,
+      "year_month": "2022-11"
+    },
+    {
+      "City": "Saint Cloud",
+      "Latitude": "45.5579000000",
+      "Longitude": "-94.1632000000",
+      "hospital_code": "G",
+      "mean_wait": 5.6294337607,
+      "year_month": "2022-12"
+    },
+    {
+      "City": "Saint Cloud",
+      "Latitude": "45.5579000000",
+      "Longitude": "-94.1632000000",
+      "hospital_code": "G",
+      "mean_wait": 4.7337797619,
+      "year_month": "2023-01"
+    },
+    {
+      "City": "Pipestone",
+      "Latitude": "43.9986000000",
+      "Longitude": "-96.3128000000",
+      "hospital_code": "H",
+      "mean_wait": 1.4608045977,
+      "year_month": "2021-01"
+    },
+    {
+      "City": "Pipestone",
+      "Latitude": "43.9986000000",
+      "Longitude": "-96.3128000000",
+      "hospital_code": "H",
+      "mean_wait": 1.4112745098,
+      "year_month": "2021-02"
+    },
+    {
+      "City": "Pipestone",
+      "Latitude": "43.9986000000",
+      "Longitude": "-96.3128000000",
+      "hospital_code": "H",
+      "mean_wait": 1.3153775322,
+      "year_month": "2021-03"
+    },
+    {
+      "City": "Pipestone",
+      "Latitude": "43.9986000000",
+      "Longitude": "-96.3128000000",
+      "hospital_code": "H",
+      "mean_wait": 1.6417592593,
+      "year_month": "2021-04"
+    },
+    {
+      "City": "Pipestone",
+      "Latitude": "43.9986000000",
+      "Longitude": "-96.3128000000",
+      "hospital_code": "H",
+      "mean_wait": 1.7225775194,
+      "year_month": "2021-05"
+    },
+    {
+      "City": "Pipestone",
+      "Latitude": "43.9986000000",
+      "Longitude": "-96.3128000000",
+      "hospital_code": "H",
+      "mean_wait": 2.1913370998,
+      "year_month": "2021-06"
+    },
+    {
+      "City": "Pipestone",
+      "Latitude": "43.9986000000",
+      "Longitude": "-96.3128000000",
+      "hospital_code": "H",
+      "mean_wait": 1.589569161,
+      "year_month": "2021-07"
+    },
+    {
+      "City": "Pipestone",
+      "Latitude": "43.9986000000",
+      "Longitude": "-96.3128000000",
+      "hospital_code": "H",
+      "mean_wait": 2.1307426598,
+      "year_month": "2021-08"
+    },
+    {
+      "City": "Pipestone",
+      "Latitude": "43.9986000000",
+      "Longitude": "-96.3128000000",
+      "hospital_code": "H",
+      "mean_wait": 2.4038216561,
+      "year_month": "2021-09"
+    },
+    {
+      "City": "Pipestone",
+      "Latitude": "43.9986000000",
+      "Longitude": "-96.3128000000",
+      "hospital_code": "H",
+      "mean_wait": 2.333234714,
+      "year_month": "2021-10"
+    },
+    {
+      "City": "Pipestone",
+      "Latitude": "43.9986000000",
+      "Longitude": "-96.3128000000",
+      "hospital_code": "H",
+      "mean_wait": 1.9509933775,
+      "year_month": "2021-11"
+    },
+    {
+      "City": "Pipestone",
+      "Latitude": "43.9986000000",
+      "Longitude": "-96.3128000000",
+      "hospital_code": "H",
+      "mean_wait": 2.5298353909,
+      "year_month": "2021-12"
+    },
+    {
+      "City": "Pipestone",
+      "Latitude": "43.9986000000",
+      "Longitude": "-96.3128000000",
+      "hospital_code": "H",
+      "mean_wait": 1.8740896359,
+      "year_month": "2022-01"
+    },
+    {
+      "City": "Pipestone",
+      "Latitude": "43.9986000000",
+      "Longitude": "-96.3128000000",
+      "hospital_code": "H",
+      "mean_wait": 1.3537940379,
+      "year_month": "2022-02"
+    },
+    {
+      "City": "Pipestone",
+      "Latitude": "43.9986000000",
+      "Longitude": "-96.3128000000",
+      "hospital_code": "H",
+      "mean_wait": 1.6060416667,
+      "year_month": "2022-03"
+    },
+    {
+      "City": "Pipestone",
+      "Latitude": "43.9986000000",
+      "Longitude": "-96.3128000000",
+      "hospital_code": "H",
+      "mean_wait": 2.0582815735,
+      "year_month": "2022-04"
+    },
+    {
+      "City": "Pipestone",
+      "Latitude": "43.9986000000",
+      "Longitude": "-96.3128000000",
+      "hospital_code": "H",
+      "mean_wait": 1.8798573975,
+      "year_month": "2022-05"
+    },
+    {
+      "City": "Pipestone",
+      "Latitude": "43.9986000000",
+      "Longitude": "-96.3128000000",
+      "hospital_code": "H",
+      "mean_wait": 2.1706401766,
+      "year_month": "2022-06"
+    },
+    {
+      "City": "Pipestone",
+      "Latitude": "43.9986000000",
+      "Longitude": "-96.3128000000",
+      "hospital_code": "H",
+      "mean_wait": 2.4735955056,
+      "year_month": "2022-07"
+    },
+    {
+      "City": "Pipestone",
+      "Latitude": "43.9986000000",
+      "Longitude": "-96.3128000000",
+      "hospital_code": "H",
+      "mean_wait": 2.1329317269,
+      "year_month": "2022-08"
+    },
+    {
+      "City": "Pipestone",
+      "Latitude": "43.9986000000",
+      "Longitude": "-96.3128000000",
+      "hospital_code": "H",
+      "mean_wait": 2.4884868421,
+      "year_month": "2022-09"
+    },
+    {
+      "City": "Pipestone",
+      "Latitude": "43.9986000000",
+      "Longitude": "-96.3128000000",
+      "hospital_code": "H",
+      "mean_wait": 2.7682489451,
+      "year_month": "2022-10"
+    },
+    {
+      "City": "Pipestone",
+      "Latitude": "43.9986000000",
+      "Longitude": "-96.3128000000",
+      "hospital_code": "H",
+      "mean_wait": 1.999537037,
+      "year_month": "2022-11"
+    },
+    {
+      "City": "Pipestone",
+      "Latitude": "43.9986000000",
+      "Longitude": "-96.3128000000",
+      "hospital_code": "H",
+      "mean_wait": 2.0374100719,
+      "year_month": "2022-12"
+    },
+    {
+      "City": "Pipestone",
+      "Latitude": "43.9986000000",
+      "Longitude": "-96.3128000000",
+      "hospital_code": "H",
+      "mean_wait": 2.587037037,
+      "year_month": "2023-01"
+    },
+    {
+      "City": "Duluth",
+      "Latitude": "46.7867000000",
+      "Longitude": "-92.1005000000",
+      "hospital_code": "I",
+      "mean_wait": 2.6002626552,
+      "year_month": "2021-01"
+    },
+    {
+      "City": "Duluth",
+      "Latitude": "46.7867000000",
+      "Longitude": "-92.1005000000",
+      "hospital_code": "I",
+      "mean_wait": 2.4520725389,
+      "year_month": "2021-02"
+    },
+    {
+      "City": "Duluth",
+      "Latitude": "46.7867000000",
+      "Longitude": "-92.1005000000",
+      "hospital_code": "I",
+      "mean_wait": 2.5836958774,
+      "year_month": "2021-03"
+    },
+    {
+      "City": "Duluth",
+      "Latitude": "46.7867000000",
+      "Longitude": "-92.1005000000",
+      "hospital_code": "I",
+      "mean_wait": 3.191001716,
+      "year_month": "2021-04"
+    },
+    {
+      "City": "Duluth",
+      "Latitude": "46.7867000000",
+      "Longitude": "-92.1005000000",
+      "hospital_code": "I",
+      "mean_wait": 3.3276199495,
+      "year_month": "2021-05"
+    },
+    {
+      "City": "Duluth",
+      "Latitude": "46.7867000000",
+      "Longitude": "-92.1005000000",
+      "hospital_code": "I",
+      "mean_wait": 3.9247937294,
+      "year_month": "2021-06"
+    },
+    {
+      "City": "Duluth",
+      "Latitude": "46.7867000000",
+      "Longitude": "-92.1005000000",
+      "hospital_code": "I",
+      "mean_wait": 3.6299344799,
+      "year_month": "2021-07"
+    },
+    {
+      "City": "Duluth",
+      "Latitude": "46.7867000000",
+      "Longitude": "-92.1005000000",
+      "hospital_code": "I",
+      "mean_wait": 4.8922115385,
+      "year_month": "2021-08"
+    },
+    {
+      "City": "Duluth",
+      "Latitude": "46.7867000000",
+      "Longitude": "-92.1005000000",
+      "hospital_code": "I",
+      "mean_wait": 4.2915856556,
+      "year_month": "2021-09"
+    },
+    {
+      "City": "Duluth",
+      "Latitude": "46.7867000000",
+      "Longitude": "-92.1005000000",
+      "hospital_code": "I",
+      "mean_wait": 4.0313383209,
+      "year_month": "2021-10"
+    },
+    {
+      "City": "Duluth",
+      "Latitude": "46.7867000000",
+      "Longitude": "-92.1005000000",
+      "hospital_code": "I",
+      "mean_wait": 4.2873868183,
+      "year_month": "2021-11"
+    },
+    {
+      "City": "Duluth",
+      "Latitude": "46.7867000000",
+      "Longitude": "-92.1005000000",
+      "hospital_code": "I",
+      "mean_wait": 3.9526679628,
+      "year_month": "2021-12"
+    },
+    {
+      "City": "Duluth",
+      "Latitude": "46.7867000000",
+      "Longitude": "-92.1005000000",
+      "hospital_code": "I",
+      "mean_wait": 3.4198660199,
+      "year_month": "2022-01"
+    },
+    {
+      "City": "Duluth",
+      "Latitude": "46.7867000000",
+      "Longitude": "-92.1005000000",
+      "hospital_code": "I",
+      "mean_wait": 2.564474359,
+      "year_month": "2022-02"
+    },
+    {
+      "City": "Duluth",
+      "Latitude": "46.7867000000",
+      "Longitude": "-92.1005000000",
+      "hospital_code": "I",
+      "mean_wait": 3.3546419903,
+      "year_month": "2022-03"
+    },
+    {
+      "City": "Duluth",
+      "Latitude": "46.7867000000",
+      "Longitude": "-92.1005000000",
+      "hospital_code": "I",
+      "mean_wait": 3.6202335859,
+      "year_month": "2022-04"
+    },
+    {
+      "City": "Duluth",
+      "Latitude": "46.7867000000",
+      "Longitude": "-92.1005000000",
+      "hospital_code": "I",
+      "mean_wait": 3.6522189349,
+      "year_month": "2022-05"
+    },
+    {
+      "City": "Duluth",
+      "Latitude": "46.7867000000",
+      "Longitude": "-92.1005000000",
+      "hospital_code": "I",
+      "mean_wait": 5.6521798081,
+      "year_month": "2022-06"
+    },
+    {
+      "City": "Duluth",
+      "Latitude": "46.7867000000",
+      "Longitude": "-92.1005000000",
+      "hospital_code": "I",
+      "mean_wait": 4.5621974522,
+      "year_month": "2022-07"
+    },
+    {
+      "City": "Duluth",
+      "Latitude": "46.7867000000",
+      "Longitude": "-92.1005000000",
+      "hospital_code": "I",
+      "mean_wait": 4.9333870621,
+      "year_month": "2022-08"
+    },
+    {
+      "City": "Duluth",
+      "Latitude": "46.7867000000",
+      "Longitude": "-92.1005000000",
+      "hospital_code": "I",
+      "mean_wait": 5.8655144878,
+      "year_month": "2022-09"
+    },
+    {
+      "City": "Duluth",
+      "Latitude": "46.7867000000",
+      "Longitude": "-92.1005000000",
+      "hospital_code": "I",
+      "mean_wait": 6.5503490401,
+      "year_month": "2022-10"
+    },
+    {
+      "City": "Duluth",
+      "Latitude": "46.7867000000",
+      "Longitude": "-92.1005000000",
+      "hospital_code": "I",
+      "mean_wait": 6.6422295806,
+      "year_month": "2022-11"
+    },
+    {
+      "City": "Duluth",
+      "Latitude": "46.7867000000",
+      "Longitude": "-92.1005000000",
+      "hospital_code": "I",
+      "mean_wait": 5.109573289,
+      "year_month": "2022-12"
+    },
+    {
+      "City": "Duluth",
+      "Latitude": "46.7867000000",
+      "Longitude": "-92.1005000000",
+      "hospital_code": "I",
+      "mean_wait": 4.5911585366,
+      "year_month": "2023-01"
+    },
+    {
+      "City": "Melrose",
+      "Latitude": "45.6747000000",
+      "Longitude": "-94.8075000000",
+      "hospital_code": "J",
+      "mean_wait": 1.9482183908,
+      "year_month": "2021-01"
+    },
+    {
+      "City": "Melrose",
+      "Latitude": "45.6747000000",
+      "Longitude": "-94.8075000000",
+      "hospital_code": "J",
+      "mean_wait": 1.5806878307,
+      "year_month": "2021-02"
+    },
+    {
+      "City": "Melrose",
+      "Latitude": "45.6747000000",
+      "Longitude": "-94.8075000000",
+      "hospital_code": "J",
+      "mean_wait": 1.9175955414,
+      "year_month": "2021-03"
+    },
+    {
+      "City": "Melrose",
+      "Latitude": "45.6747000000",
+      "Longitude": "-94.8075000000",
+      "hospital_code": "J",
+      "mean_wait": 2.720687911,
+      "year_month": "2021-04"
+    },
+    {
+      "City": "Melrose",
+      "Latitude": "45.6747000000",
+      "Longitude": "-94.8075000000",
+      "hospital_code": "J",
+      "mean_wait": 2.2301549145,
+      "year_month": "2021-05"
+    },
+    {
+      "City": "Melrose",
+      "Latitude": "45.6747000000",
+      "Longitude": "-94.8075000000",
+      "hospital_code": "J",
+      "mean_wait": 2.4871059432,
+      "year_month": "2021-06"
+    },
+    {
+      "City": "Melrose",
+      "Latitude": "45.6747000000",
+      "Longitude": "-94.8075000000",
+      "hospital_code": "J",
+      "mean_wait": 2.3905320814,
+      "year_month": "2021-07"
+    },
+    {
+      "City": "Melrose",
+      "Latitude": "45.6747000000",
+      "Longitude": "-94.8075000000",
+      "hospital_code": "J",
+      "mean_wait": 3.380610687,
+      "year_month": "2021-08"
+    },
+    {
+      "City": "Melrose",
+      "Latitude": "45.6747000000",
+      "Longitude": "-94.8075000000",
+      "hospital_code": "J",
+      "mean_wait": 3.5406911929,
+      "year_month": "2021-09"
+    },
+    {
+      "City": "Melrose",
+      "Latitude": "45.6747000000",
+      "Longitude": "-94.8075000000",
+      "hospital_code": "J",
+      "mean_wait": 4.1185877466,
+      "year_month": "2021-10"
+    },
+    {
+      "City": "Melrose",
+      "Latitude": "45.6747000000",
+      "Longitude": "-94.8075000000",
+      "hospital_code": "J",
+      "mean_wait": 8.879267636,
+      "year_month": "2021-11"
+    },
+    {
+      "City": "Melrose",
+      "Latitude": "45.6747000000",
+      "Longitude": "-94.8075000000",
+      "hospital_code": "J",
+      "mean_wait": 11.9146766169,
+      "year_month": "2021-12"
+    },
+    {
+      "City": "Melrose",
+      "Latitude": "45.6747000000",
+      "Longitude": "-94.8075000000",
+      "hospital_code": "J",
+      "mean_wait": 8.5552808303,
+      "year_month": "2022-01"
+    },
+    {
+      "City": "Melrose",
+      "Latitude": "45.6747000000",
+      "Longitude": "-94.8075000000",
+      "hospital_code": "J",
+      "mean_wait": 3.6248913718,
+      "year_month": "2022-02"
+    },
+    {
+      "City": "Melrose",
+      "Latitude": "45.6747000000",
+      "Longitude": "-94.8075000000",
+      "hospital_code": "J",
+      "mean_wait": 3.0461477987,
+      "year_month": "2022-03"
+    },
+    {
+      "City": "Melrose",
+      "Latitude": "45.6747000000",
+      "Longitude": "-94.8075000000",
+      "hospital_code": "J",
+      "mean_wait": 3.2872470714,
+      "year_month": "2022-04"
+    },
+    {
+      "City": "Melrose",
+      "Latitude": "45.6747000000",
+      "Longitude": "-94.8075000000",
+      "hospital_code": "J",
+      "mean_wait": 2.842406015,
+      "year_month": "2022-05"
+    },
+    {
+      "City": "Melrose",
+      "Latitude": "45.6747000000",
+      "Longitude": "-94.8075000000",
+      "hospital_code": "J",
+      "mean_wait": 3.8278911565,
+      "year_month": "2022-06"
+    },
+    {
+      "City": "Melrose",
+      "Latitude": "45.6747000000",
+      "Longitude": "-94.8075000000",
+      "hospital_code": "J",
+      "mean_wait": 3.5235370951,
+      "year_month": "2022-07"
+    },
+    {
+      "City": "Melrose",
+      "Latitude": "45.6747000000",
+      "Longitude": "-94.8075000000",
+      "hospital_code": "J",
+      "mean_wait": 4.1430359937,
+      "year_month": "2022-08"
+    },
+    {
+      "City": "Melrose",
+      "Latitude": "45.6747000000",
+      "Longitude": "-94.8075000000",
+      "hospital_code": "J",
+      "mean_wait": 4.8738095238,
+      "year_month": "2022-09"
+    },
+    {
+      "City": "Melrose",
+      "Latitude": "45.6747000000",
+      "Longitude": "-94.8075000000",
+      "hospital_code": "J",
+      "mean_wait": 5.2533386328,
+      "year_month": "2022-10"
+    },
+    {
+      "City": "Melrose",
+      "Latitude": "45.6747000000",
+      "Longitude": "-94.8075000000",
+      "hospital_code": "J",
+      "mean_wait": 5.3471631206,
+      "year_month": "2022-11"
+    },
+    {
+      "City": "Melrose",
+      "Latitude": "45.6747000000",
+      "Longitude": "-94.8075000000",
+      "hospital_code": "J",
+      "mean_wait": 5.180787037,
+      "year_month": "2022-12"
+    },
+    {
+      "City": "Melrose",
+      "Latitude": "45.6747000000",
+      "Longitude": "-94.8075000000",
+      "hospital_code": "J",
+      "mean_wait": 4.3599099099,
+      "year_month": "2023-01"
+    },
+    {
+      "City": "Mankato",
+      "Latitude": "44.1636000000",
+      "Longitude": "-93.9994000000",
+      "hospital_code": "K",
+      "mean_wait": 3.1099079972,
+      "year_month": "2021-01"
+    },
+    {
+      "City": "Mankato",
+      "Latitude": "44.1636000000",
+      "Longitude": "-93.9994000000",
+      "hospital_code": "K",
+      "mean_wait": 2.9985794759,
+      "year_month": "2021-02"
+    },
+    {
+      "City": "Mankato",
+      "Latitude": "44.1636000000",
+      "Longitude": "-93.9994000000",
+      "hospital_code": "K",
+      "mean_wait": 2.9623277347,
+      "year_month": "2021-03"
+    },
+    {
+      "City": "Mankato",
+      "Latitude": "44.1636000000",
+      "Longitude": "-93.9994000000",
+      "hospital_code": "K",
+      "mean_wait": 3.2337048832,
+      "year_month": "2021-04"
+    },
+    {
+      "City": "Mankato",
+      "Latitude": "44.1636000000",
+      "Longitude": "-93.9994000000",
+      "hospital_code": "K",
+      "mean_wait": 3.6878948462,
+      "year_month": "2021-05"
+    },
+    {
+      "City": "Mankato",
+      "Latitude": "44.1636000000",
+      "Longitude": "-93.9994000000",
+      "hospital_code": "K",
+      "mean_wait": 3.3866412214,
+      "year_month": "2021-06"
+    },
+    {
+      "City": "Mankato",
+      "Latitude": "44.1636000000",
+      "Longitude": "-93.9994000000",
+      "hospital_code": "K",
+      "mean_wait": 3.4208385613,
+      "year_month": "2021-07"
+    },
+    {
+      "City": "Mankato",
+      "Latitude": "44.1636000000",
+      "Longitude": "-93.9994000000",
+      "hospital_code": "K",
+      "mean_wait": 3.76220022,
+      "year_month": "2021-08"
+    },
+    {
+      "City": "Mankato",
+      "Latitude": "44.1636000000",
+      "Longitude": "-93.9994000000",
+      "hospital_code": "K",
+      "mean_wait": 4.3294543298,
+      "year_month": "2021-09"
+    },
+    {
+      "City": "Mankato",
+      "Latitude": "44.1636000000",
+      "Longitude": "-93.9994000000",
+      "hospital_code": "K",
+      "mean_wait": 4.3871513944,
+      "year_month": "2021-10"
+    },
+    {
+      "City": "Mankato",
+      "Latitude": "44.1636000000",
+      "Longitude": "-93.9994000000",
+      "hospital_code": "K",
+      "mean_wait": 5.4483870968,
+      "year_month": "2021-11"
+    },
+    {
+      "City": "Mankato",
+      "Latitude": "44.1636000000",
+      "Longitude": "-93.9994000000",
+      "hospital_code": "K",
+      "mean_wait": 6.831780924,
+      "year_month": "2021-12"
+    },
+    {
+      "City": "Mankato",
+      "Latitude": "44.1636000000",
+      "Longitude": "-93.9994000000",
+      "hospital_code": "K",
+      "mean_wait": 8.8505660874,
+      "year_month": "2022-01"
+    },
+    {
+      "City": "Mankato",
+      "Latitude": "44.1636000000",
+      "Longitude": "-93.9994000000",
+      "hospital_code": "K",
+      "mean_wait": 5.5901495907,
+      "year_month": "2022-02"
+    },
+    {
+      "City": "Mankato",
+      "Latitude": "44.1636000000",
+      "Longitude": "-93.9994000000",
+      "hospital_code": "K",
+      "mean_wait": 4.6101422615,
+      "year_month": "2022-03"
+    },
+    {
+      "City": "Mankato",
+      "Latitude": "44.1636000000",
+      "Longitude": "-93.9994000000",
+      "hospital_code": "K",
+      "mean_wait": 4.293681998,
+      "year_month": "2022-04"
+    },
+    {
+      "City": "Mankato",
+      "Latitude": "44.1636000000",
+      "Longitude": "-93.9994000000",
+      "hospital_code": "K",
+      "mean_wait": 5.2281566509,
+      "year_month": "2022-05"
+    },
+    {
+      "City": "Mankato",
+      "Latitude": "44.1636000000",
+      "Longitude": "-93.9994000000",
+      "hospital_code": "K",
+      "mean_wait": 5.1469915764,
+      "year_month": "2022-06"
+    },
+    {
+      "City": "Mankato",
+      "Latitude": "44.1636000000",
+      "Longitude": "-93.9994000000",
+      "hospital_code": "K",
+      "mean_wait": 5.244627809,
+      "year_month": "2022-07"
+    },
+    {
+      "City": "Mankato",
+      "Latitude": "44.1636000000",
+      "Longitude": "-93.9994000000",
+      "hospital_code": "K",
+      "mean_wait": 4.7644927536,
+      "year_month": "2022-08"
+    },
+    {
+      "City": "Mankato",
+      "Latitude": "44.1636000000",
+      "Longitude": "-93.9994000000",
+      "hospital_code": "K",
+      "mean_wait": 4.4071390868,
+      "year_month": "2022-09"
+    },
+    {
+      "City": "Mankato",
+      "Latitude": "44.1636000000",
+      "Longitude": "-93.9994000000",
+      "hospital_code": "K",
+      "mean_wait": 5.0790051207,
+      "year_month": "2022-10"
+    },
+    {
+      "City": "Mankato",
+      "Latitude": "44.1636000000",
+      "Longitude": "-93.9994000000",
+      "hospital_code": "K",
+      "mean_wait": 5.928907649,
+      "year_month": "2022-11"
+    },
+    {
+      "City": "Mankato",
+      "Latitude": "44.1636000000",
+      "Longitude": "-93.9994000000",
+      "hospital_code": "K",
+      "mean_wait": 6.0588536953,
+      "year_month": "2022-12"
+    },
+    {
+      "City": "Mankato",
+      "Latitude": "44.1636000000",
+      "Longitude": "-93.9994000000",
+      "hospital_code": "K",
+      "mean_wait": 4.8238425926,
+      "year_month": "2023-01"
+    },
+    {
+      "City": null,
+      "Latitude": null,
+      "Longitude": null,
+      "hospital_code": "all",
+      "mean_wait": 2.5820136495,
+      "year_month": "2021-01"
+    },
+    {
+      "City": null,
+      "Latitude": null,
+      "Longitude": null,
+      "hospital_code": "all",
+      "mean_wait": 2.4548264767,
+      "year_month": "2021-02"
+    },
+    {
+      "City": null,
+      "Latitude": null,
+      "Longitude": null,
+      "hospital_code": "all",
+      "mean_wait": 2.4898649079,
+      "year_month": "2021-03"
+    },
+    {
+      "City": null,
+      "Latitude": null,
+      "Longitude": null,
+      "hospital_code": "all",
+      "mean_wait": 2.9399926239,
+      "year_month": "2021-04"
+    },
+    {
+      "City": null,
+      "Latitude": null,
+      "Longitude": null,
+      "hospital_code": "all",
+      "mean_wait": 2.9832811264,
+      "year_month": "2021-05"
+    },
+    {
+      "City": null,
+      "Latitude": null,
+      "Longitude": null,
+      "hospital_code": "all",
+      "mean_wait": 3.0715385598,
+      "year_month": "2021-06"
+    },
+    {
+      "City": null,
+      "Latitude": null,
+      "Longitude": null,
+      "hospital_code": "all",
+      "mean_wait": 3.1157003922,
+      "year_month": "2021-07"
+    },
+    {
+      "City": null,
+      "Latitude": null,
+      "Longitude": null,
+      "hospital_code": "all",
+      "mean_wait": 3.9072446288,
+      "year_month": "2021-08"
+    },
+    {
+      "City": null,
+      "Latitude": null,
+      "Longitude": null,
+      "hospital_code": "all",
+      "mean_wait": 4.1177260534,
+      "year_month": "2021-09"
+    },
+    {
+      "City": null,
+      "Latitude": null,
+      "Longitude": null,
+      "hospital_code": "all",
+      "mean_wait": 4.6371444935,
+      "year_month": "2021-10"
+    },
+    {
+      "City": null,
+      "Latitude": null,
+      "Longitude": null,
+      "hospital_code": "all",
+      "mean_wait": 5.6907359307,
+      "year_month": "2021-11"
+    },
+    {
+      "City": null,
+      "Latitude": null,
+      "Longitude": null,
+      "hospital_code": "all",
+      "mean_wait": 6.1659787432,
+      "year_month": "2021-12"
+    },
+    {
+      "City": null,
+      "Latitude": null,
+      "Longitude": null,
+      "hospital_code": "all",
+      "mean_wait": 5.8144972149,
+      "year_month": "2022-01"
+    },
+    {
+      "City": null,
+      "Latitude": null,
+      "Longitude": null,
+      "hospital_code": "all",
+      "mean_wait": 3.5317030687,
+      "year_month": "2022-02"
+    },
+    {
+      "City": null,
+      "Latitude": null,
+      "Longitude": null,
+      "hospital_code": "all",
+      "mean_wait": 3.4420081898,
+      "year_month": "2022-03"
+    },
+    {
+      "City": null,
+      "Latitude": null,
+      "Longitude": null,
+      "hospital_code": "all",
+      "mean_wait": 3.5817036887,
+      "year_month": "2022-04"
+    },
+    {
+      "City": null,
+      "Latitude": null,
+      "Longitude": null,
+      "hospital_code": "all",
+      "mean_wait": 3.9575369473,
+      "year_month": "2022-05"
+    },
+    {
+      "City": null,
+      "Latitude": null,
+      "Longitude": null,
+      "hospital_code": "all",
+      "mean_wait": 4.49918312,
+      "year_month": "2022-06"
+    },
+    {
+      "City": null,
+      "Latitude": null,
+      "Longitude": null,
+      "hospital_code": "all",
+      "mean_wait": 4.3178312858,
+      "year_month": "2022-07"
+    },
+    {
+      "City": null,
+      "Latitude": null,
+      "Longitude": null,
+      "hospital_code": "all",
+      "mean_wait": 4.4434846788,
+      "year_month": "2022-08"
+    },
+    {
+      "City": null,
+      "Latitude": null,
+      "Longitude": null,
+      "hospital_code": "all",
+      "mean_wait": 5.2207207694,
+      "year_month": "2022-09"
+    },
+    {
+      "City": null,
+      "Latitude": null,
+      "Longitude": null,
+      "hospital_code": "all",
+      "mean_wait": 5.761370242,
+      "year_month": "2022-10"
+    },
+    {
+      "City": null,
+      "Latitude": null,
+      "Longitude": null,
+      "hospital_code": "all",
+      "mean_wait": 6.5730893186,
+      "year_month": "2022-11"
+    },
+    {
+      "City": null,
+      "Latitude": null,
+      "Longitude": null,
+      "hospital_code": "all",
+      "mean_wait": 6.0413566403,
+      "year_month": "2022-12"
+    },
+    {
+      "City": null,
+      "Latitude": null,
+      "Longitude": null,
+      "hospital_code": "all",
+      "mean_wait": 4.220749543,
+      "year_month": "2023-01"
+    }
+]
