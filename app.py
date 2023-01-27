@@ -5,7 +5,7 @@
  
 from flask import Flask, jsonify, render_template
 import sqlite3
-
+from flask_cors import CORS, cross_origin
 #****
 
 import sqlalchemy
