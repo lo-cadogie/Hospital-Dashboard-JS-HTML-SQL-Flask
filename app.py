@@ -33,7 +33,7 @@ disposition = Base.classes.admit_v_transfer
 # Flask Setup
 #################################################
 app = Flask(__name__)
-db_locale = 'Hospital_Boarding.db'
+db_locale = 'Hospital_Boarding.sqlite'
 
 cors = CORS(app)
 
