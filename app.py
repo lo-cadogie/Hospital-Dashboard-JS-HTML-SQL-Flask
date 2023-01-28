@@ -136,7 +136,7 @@ def query():
         disp_dict['count'] = count
         disp_list.append(disp_dict.copy())
 
-    data_dict = {'monthly_data': month_list, 'daily_list': day_list, 'disp_data': disp_list}
+    data_dict = {'monthly_data': month_list, 'daily_data': day_list, 'disp_data': disp_list}
     return jsonify(data_dict)
 
 #**
