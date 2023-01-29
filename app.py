@@ -32,7 +32,9 @@ disposition = Base.classes.admit_v_transfer
 # Flask Setup
 #################################################
 app = Flask(__name__)
-db_locale = 'Hospital_Boarding.db'
+db_locale = 'Hospital_Boarding.sqlite'
+
+cors = CORS(app)
 
 #################################################
 # Flask Routes
@@ -72,10 +74,10 @@ def query_admit_details_table():
 #**
 
 # Data route 
-@app.route("/monthly_data")
+@app.route("/data")
 
-# Publish wait times by month and location data on the monthly data tab
-def query_wait_month():
+# Publish data
+def query():
     
     # Create our session (link) from Python to the DB
     session = Session(engine)  
@@ -83,7 +85,11 @@ def query_wait_month():
     #Query table
     waitxmonth_query = session.query(wait_month.hospital_code, wait_month.year_month, wait_month.mean_wait, wait_month.City,\
         wait_month.Latitude, wait_month.Longitude).all()
-    
+    waitxday_query = session.query(wait_day.hospital_code, wait_day.year_month, wait_day.date, \
+        wait_day.mean_wait, wait_day.City, wait_day.Latitude, wait_day.Longitude).all()
+    disposition_query = session.query(disposition.hospital_code, disposition.year, disposition.disposition, \
+        disposition.count).all()
+
     # Close session
     session.close()
 
@@ -102,24 +108,6 @@ def query_wait_month():
         month_dict['Longitude'] = lon
         month_list.append(month_dict.copy())
 
-    return jsonify(month_list)
-
-# Data route 
-@app.route("/daily_data")
-
-# Publish wait times by day and location with year-month for filtering data on the daily data tab
-def query_wait_day():
-    
-    # Create our session (link) from Python to the DB
-    session = Session(engine)
-    
-    #Query table
-    waitxday_query = session.query(wait_day.hospital_code, wait_day.year_month, wait_day.date, \
-        wait_day.mean_wait, wait_day.City, wait_day.Latitude, wait_day.Longitude).all()
-
-    # Close session
-    session.close()
-
     # Create list of dictionaries for daily data
     day_list = []
     day_dict = {}
@@ -135,23 +123,6 @@ def query_wait_day():
         lon = str(row[6])
         day_dict['Longitude'] = lon
         day_list.append(day_dict.copy())
-    
-    return jsonify(day_list)
-
-# Data route 
-@app.route("/disposition_data")
-# Publish admits versus trensfers by year, and period-to-date by location
-def query_disposition():
-
-    # Create our session (link) from Python to the DB
-    session = Session(engine)
-    
-    #Query table
-    disposition_query = session.query(disposition.hospital_code, disposition.year, disposition.disposition, \
-        disposition.count).all()
-
-    # Close session
-    session.close()
 
     # Create list of dictionaries for disposition data
     disp_list = []
@@ -164,8 +135,8 @@ def query_disposition():
         disp_dict['count'] = count
         disp_list.append(disp_dict.copy())
 
-    return jsonify(disp_list)
-
+    data_dict = {'monthly_data': month_list, 'daily_data': day_list, 'disp_data': disp_list}
+    return jsonify(data_dict)
 
 #**
 
