@@ -1,26 +1,17 @@
 <!doctype html>
 <html lang="en">
   <head>
-    Required meta tags
+    <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    Bootstrap CSS
+    <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
     <title>Hospital Boarding Data</title>
   </head>
   <body>
 
-    <div class="row">
-      <div class="col-md-2">
-        <div class="well">
-          <h5>Hospital:</h5>
-          <select id="selHospDataset" onchange="optionHospChanged(this.value)"></select>
-        </div>
-      </div>
-    </div>
-    
     <div id="pie"></div>
     <div id="monthly_bar"></div>
     <div id="daily_bar"></div>
@@ -33,7 +24,5 @@
     <script src="https://d3js.org/d3.v5.min.js"></script>
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
     <script src="./static/js/app.js"></script>
-    <script src= "./static/js/logic_map.js"></script>
   </body>
 </html>
-

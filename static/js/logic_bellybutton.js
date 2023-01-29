@@ -69,8 +69,7 @@ var DataBubble = [
           
 // Render the bar chart to the div tag with id "bar"
 Plotly.newPlot("bubble", DataBubble, LayoutBubble);
-
-})
+});
 // // Initialize the dashboard
 // init();
 
@@ -391,4 +390,3 @@ Plotly.newPlot("bubble", DataBubble, LayoutBubble);
 
 // //   Plotly.newPlot("bar", data, layout);
 // // 
-});
