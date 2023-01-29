@@ -1,5 +1,5 @@
 // Creating the map object
-let myMap = L.map("map", {
+let myMap = L.map("map-id", {
   center: [46.6030, -94.3094],
   zoom: 8
 });
@@ -16,16 +16,12 @@ let monthly_data_url = "https://project-3-ovr7.onrender.com/monthly_data"
 d3.json(monthly_data_url).then(data => {
   console.log("hello");
 
-  // // // Loop through data
-  // for (let i = 0; i < 100 ; i++) {
-  //   let hospital = [latitude, longitude],
-  //   // let latitude = coordinates[1];
-  //   // let longitude = coordinates[0];
-      let city = "city"
-      let location = []
-      let latitude = location[1];
-      let longitude = location[0];
-      console.log(location)
+  // Loop through data
+  let city = "city"
+  let location = []
+  let latitude = location[1];
+  let longitude = location[0];
+  console.log(location)
 });
 
   // An array containing each city's name, location, and population

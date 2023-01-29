@@ -23,7 +23,7 @@ p{
   color: black;
 }
 
-body{
+/* body{
   background-color: lightgrey;
 }
 
@@ -34,7 +34,7 @@ body{
 } 
 
 /* header styling*/
-h1, h2, h3{
+/* h1, h2, h3{
   font-family: Georgia, 'Times New Roman', Times, serif;
   color: maroon;
   font-family: Georgia;
@@ -45,9 +45,9 @@ h1{
   font-size: 30px;
   font-weight: bold;
   text-align:left;
-}
+} */
   
-h2{
+/* h2{
   font-size: 24px;
   font-weight: bold;
   text-align:left;
@@ -57,12 +57,12 @@ h3{
   font-size: 20px;
   font-weight: bold;
   text-align: center;
-}
+} */
 
-.col {
+/* .col {
   width: 100%;
 } 
 
 #pie {
   width: 100%;
-}
+} */ 
