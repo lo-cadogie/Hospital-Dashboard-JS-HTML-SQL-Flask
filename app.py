@@ -44,7 +44,7 @@ cors = CORS(app)
 @app.route("/")
 def welcome():
     """This is where Megan's Data will go"""
-    return ('Megans Page will go here') #render_template('MEGANSPAGE DOT html')
+    return render_template('index.html')
 
 @app.route("/tables")
 def home_page():
