@@ -45,6 +45,10 @@ cors = CORS(app)
 def welcome():
     return render_template('index.html')
 
+@app.route("/map")
+def map():
+    return render_template('map.html')
+
 @app.route("/tables")
 def home_page():
     hospital_table = query_hospital_table()

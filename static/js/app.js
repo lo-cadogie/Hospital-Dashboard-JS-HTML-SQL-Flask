@@ -8,7 +8,7 @@ function getCharts(selHosp) {
         let selYear = '2022'
         let beginMonth = '2022-01'
         let endMonth = '2022-12'
-        let beginDate = '2022-01-01'
+        let beginDate = '2022-11-01'
         let endDate = '2022-12-31'
     
         // Display pie chart of admits versus transfers      
@@ -27,8 +27,8 @@ function getCharts(selHosp) {
           
         // pie chart layout
         let layout = {
-            height: 600,
-            width: 800
+            height: 450,
+            width: 600
         };
           
         Plotly.newPlot("pie", pieData, layout);
@@ -52,12 +52,13 @@ function getCharts(selHosp) {
         
         // Month bar  char layout
         let layout1 = {
-            
+            height: 450,
+            width: 600,
             margin: {
                 l: 100,
-                r: 100,
-                t: 100,
-                b: 100
+                r: 10,
+                t: 10,
+                b: 10
             } 
         };
         
@@ -83,7 +84,8 @@ function getCharts(selHosp) {
         
         // Format bar chart
         let layout2 = {
-            
+            height: 450,
+            width: 600,
             margin: {
                 l: 100,
                 r: 100,
@@ -126,4 +128,6 @@ function init() {
 }
 
 init()
+
+
 

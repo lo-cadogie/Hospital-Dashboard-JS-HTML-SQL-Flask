@@ -1,7 +1,7 @@
 // Creating the map object
 let myMap = L.map("map-id", {
   center: [46.6030, -94.3094],
-  zoom: 7
+  zoom: 8
 });
 
 // Add a tile layer.
@@ -9,16 +9,20 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
   attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
 }).addTo(myMap);
 
-// access data
-d3.json("../data/data.json").then(data => {
+//create the query URL for the data pull
+// /let monthly_data_url = "https://project-3-ovr7.onrender.com/monthly_data"
 
-  // Loop through data
-  let city = "city"
-  let location = []
-  let latitude = location[1];
-  let longitude = location[0];
-  console.log(location)
-});
+// access data from the link
+// d3.json("../data/data.json").then(data => {
+//   console.log("hello");
+
+//   // Loop through data
+//   let city = "city"
+//   let location = []
+//   let latitude = location[1];
+//   let longitude = location[0];
+//   console.log(location)
+// });
 
   // An array containing each city's name, location, and population
   let hospitals = [{
