@@ -10,19 +10,19 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 }).addTo(myMap);
 
 //create the query URL for the data pull
-let monthly_data_url = "https://project-3-ovr7.onrender.com/monthly_data"
+// let monthly_data_url = "https://project-3-ovr7.onrender.com/monthly_data"
 
 // access data from the link
-d3.json(monthly_data_url).then(data => {
-  console.log("hello");
+// d3.json(monthly_data_url).then(data => {
+//   console.log("hello");
 
   // Loop through data
-  let city = "city"
-  let location = []
-  let latitude = location[1];
-  let longitude = location[0];
-  console.log(location)
-});
+//   let city = "city"
+//   let location = []
+//   let latitude = location[1];
+//   let longitude = location[0];
+//   console.log(location)
+// });
 
   // An array containing each city's name, location, and population
   let hospitals = [{
