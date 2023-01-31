@@ -1,0 +1,7 @@
+Within hospitals a critical metric is the amount of time a patient spends there before being discharged.  
+This metric, known in the healthcare industry as boarding time, tells literally how long a patient is in the hospital before being released.  
+What our group has decided to do is look at these boarding times in hospitals around Minnesota, from a variety of towns and cities big and small, to figure out if boarding times were comparable and how, and why, these numbers varied.
+
+Programs used in this project included SQL Alchemy, Pandas, SQLite, and a variety of other programs.
+
+This project was worked on by Edith Lotterman, Lauren Cadogen, Megan Blazevic, and Will Dickerson.
