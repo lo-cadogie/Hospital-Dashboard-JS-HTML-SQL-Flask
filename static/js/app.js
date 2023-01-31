@@ -1,8 +1,14 @@
-// Creating function to build charts
-function getCharts(selHosp) {
-    // Get data
-    d3.json("../data/data.json").then((data)=> {
-        console.log(data)
+// Data
+let url = "https://project-3-ovr7.onrender.com/data"
+
+// Function that pulls data and creates charts
+
+d3.json(url).then(data => {
+    console.log(data);
+
+    // Creating function to build charts
+    function getCharts(selHosp) {
+
         
         // Create plot variables
         let selYear = '2022'
@@ -14,7 +20,7 @@ function getCharts(selHosp) {
         // Display pie chart of admits versus transfers      
         // Create filter function and filter dispositions
         function selectPie(record) {
-        return record.hospital_code == selHosp && record.year == selYear;
+            return record.hospital_code == selHosp && record.year == selYear;
         };
         let pieFilterData = data.disp_data.filter(selectPie);
         console.log(pieFilterData)
@@ -96,22 +102,19 @@ function getCharts(selHosp) {
         
         // Render the bar chart to the div tag with id "daily_bar"
         Plotly.newPlot("daily_bar", dataTrace2, layout2);
-        });    
-};
+    };    
 
-function optionHospChanged(selHosp) {
-    getCharts(selHosp);
-};
 
-// Initialize function
-function init() {
+    function optionHospChanged(selHosp) {
+        getCharts(selHosp);
+    };
+
+    // Initialize function
+    function init() {
     
-    // select dropdown menu
-    let hospDropDown = d3.select("#selHospDataset");
-    
-    // Fetch the JSON data
-    d3.json("../data/data.json").then((data)=> {
-        
+        // select dropdown menu
+        let hospDropDown = d3.select("#selHospDataset");
+           
         // pull data for drop-downs
         let dropDownData = data.monthly_data;
         
@@ -124,10 +127,8 @@ function init() {
         // call the function to display the data and the plots to the page
         getCharts(hospUnique[0]);
     
-    });
-}
+    };
 
-init()
-
-
+    init()
+});
 
